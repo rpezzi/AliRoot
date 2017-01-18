@@ -13,6 +13,8 @@
 # * provided "as is" without express or implied warranty.                  *
 # **************************************************************************
 
+# What the hell is DIME?
+
 # Include the libraries
 add_subdirectory (dime)
 add_subdirectory (TDime)
