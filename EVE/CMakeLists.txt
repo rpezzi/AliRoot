@@ -13,6 +13,8 @@
 # * provided "as is" without express or implied warranty.                  *
 # **************************************************************************
 
+# Event display comment.
+
 # EVE libraries
 add_subdirectory(EveBase)
 add_subdirectory(EveDet)
