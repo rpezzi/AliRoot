@@ -13,6 +13,8 @@
 # * provided "as is" without express or implied warranty.                  *
 # **************************************************************************
 
+# EXTERMINATE
+
 # Module
 set(MODULE HIJING)
 add_definitions(-D_MODULE_="${MODULE}")
