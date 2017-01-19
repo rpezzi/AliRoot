@@ -13,6 +13,8 @@
 # * provided "as is" without express or implied warranty.                  *
 # **************************************************************************
 
+# do not touch this
+
 if(CAN_GENERATE_DOC)
 
   # Prepare Doxygen config from template
